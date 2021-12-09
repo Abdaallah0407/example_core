@@ -139,8 +139,8 @@ STATIC_URL = 'static/'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'akfamedsigma@gmail.com'
-EMAIL_HOST_PASSWORD = 'turkmanovkgz'
+EMAIL_HOST_USER = 'aibeknasyrbekov@gmail.com'
+EMAIL_HOST_PASSWORD = 'acersigmasoft'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
